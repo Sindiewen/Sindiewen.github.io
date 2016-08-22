@@ -1,5 +1,5 @@
 # Sindiewen.github.io
-my Github Site
 
-Hello World!
-I'm hosting this site on Github!
+This is my site to showcase random projects I have made.
+
+Once I start populating it, I plan to host game projects, random apps/programs.
