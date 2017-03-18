@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  background-color: lightpink;
+  background-color: pink;
   margin-bottom: 50px;
 }
 
@@ -257,8 +257,8 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    //color: $gray;
-    color: lavender;
+    color: $gray;
+    background-color: lavender;
     font-size: 22px;
     font-style: italic;
   }
