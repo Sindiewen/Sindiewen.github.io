@@ -6,13 +6,14 @@ permalink: /games/
 
 Random Games I made
 
-###Fall 2016 School Projects:
+### Fall 2016 School Projects:
 
-Roll a Ball
+In-Class Assignment 2 : 2D Platformer
+![2D platformer]({{ site.url }}/games/School-Fall-2017/2D_Platformer/2D_Platformer.tiff)
+[Play Now!]({{ site.url }}/games/School-Fall-2017/2D_Platformer/2D_Platformer.html)
+
+In-Class Assignment 1 : Roll a Ball
 ![Roll a Ball]({{ site.url }}/games/School-Fall-2017/Roll_a_Ball/RollaBall.PNG)
-
-
 [Play Now!]({{ site.url }}/games/School-Fall-2017/Roll_a_Ball/RollaBall.html)
 
 
-![Bunny](https://avatars3.githubusercontent.com/u/13990580?v=3&s=460)
