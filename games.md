@@ -9,7 +9,7 @@ Random Games I made
 ### Fall 2016 School Projects:
 
 In-Class Assignment 2 : 2D Platformer
-![2D platformer]({{ site.url }}/games/School-Fall-2017/In-Class-Assignments/2D_Platformer/2DPlatformer.PNG)
+![2D platformer]({{ site.url }}/games/School-Fall-2017/In-Class-Assignments/2D_Platformer/2D.PNG)
 [Play Now!]({{ site.url }}/games/School-Fall-2017/In-Class-Assignments/2D_Platformer/2DPlatformer.html)
 [Source Code](https://github.com/Sindiewen/In-Class-Assignment-2-2D-Platformer-CS-214U)
 
