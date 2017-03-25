@@ -9,8 +9,8 @@ Random Games I made
 ### Game Jam Projects!
 These are various game jam projects i've made
 OneHourGameJam #100 : I Made This
-![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/BeeCage/bee.png)
-[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/BeeCage/index.html)
+![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/BeeCageFinal/bee.png)
+[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/BeeCageFinal/index.html)
 
 
 ### Fall 2016 School Projects:
