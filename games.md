@@ -7,9 +7,10 @@ permalink: /games/
 Random Games I made
 
 ### Game Jam Projects!
+These are various game jam projects i've made
 OneHourGameJam #100 : I Made This
 ![BeeCage]({{ site.url }}/games/Game-Jams/OneHourGameJam/#100_BeeCage/beecage.PNG)
-[Play Now!]({{ site.url }}/games/Game-Jams/OneHourGameJam/#100_BeeCage/beecage.html)
+[Play Now!]({{ site.url }}/games/Game-Jams/OneHourGameJam/#100_BeeCage/index.html)
 
 
 ### Fall 2016 School Projects:
