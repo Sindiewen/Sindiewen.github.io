@@ -6,6 +6,18 @@ permalink: /games/
 
 Random Games I made
 
+### My Games!
+These are games i've made.
+
+March 2017 - Project Tri-Pong
+A simple 3v3 Pong styled game with bricks you need to destroy to get the ball to the opposite side.
+There are powerups each paddle can pickup to assist you.
+![Tri-Pong]({{ site.url }}/games/2017/Mar_TriPong/tri.png)
+[Play Now!]({{ site.url }}/games/2017/Mar_TriPong/index.html)
+[Downloads](https://sindiewen.itch.io/project-tri-pong)
+[Source Code](https://github.com/Sindiewen/Project-Tri-Pong)
+
+
 ### Game Jam Projects!
 These are various game jam projects i've made
 OneHourGameJam #100 : I Made This
