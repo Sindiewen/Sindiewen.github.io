@@ -6,6 +6,7 @@ permalink: /games/
 
 Random Games I made
 
+
 ### My Games!
 These are games i've made.
 
@@ -19,12 +20,14 @@ There are powerups each paddle can pickup to assist you.
 [Source Code](https://github.com/Sindiewen/Project-Tri-Pong)
 
 
+
 ### Game Jam Projects!
 These are various game jam projects i've made
 
 OneHourGameJam #100 : I Made This
 ![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/bee.png)
 [Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/index.html)
+
 
 
 ### Fall 2016 School Projects:
