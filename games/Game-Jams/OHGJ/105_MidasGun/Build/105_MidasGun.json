@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "105_MidasGun.data.unityweb",
+"asmCodeUrl": "105_MidasGun.asm.code.unityweb",
+"asmMemoryUrl": "105_MidasGun.asm.memory.unityweb",
+"asmFrameworkUrl": "105_MidasGun.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
