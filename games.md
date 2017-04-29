@@ -10,6 +10,7 @@ Random Games I made
 These are games i've made.
 
 March 2017 - Project Tri-Pong
+
 A simple 3v3 Pong styled game with bricks you need to destroy to get the ball to the opposite side.
 There are powerups each paddle can pickup to assist you.
 ![Tri-Pong]({{ site.url }}/games/2017/Mar_TriPong/tri.png)
@@ -20,9 +21,10 @@ There are powerups each paddle can pickup to assist you.
 
 ### Game Jam Projects!
 These are various game jam projects i've made
+
 OneHourGameJam #100 : I Made This
-![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/BeeCageFinal/bee.png)
-[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/BeeCageFinal/index.html)
+![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/bee.png)
+[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/index.html)
 
 
 ### Fall 2016 School Projects:
