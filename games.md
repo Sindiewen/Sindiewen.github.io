@@ -25,17 +25,19 @@ There are powerups each paddle can pickup to assist you.
 These are various game jam projects i've made
 
 OneHourGameJam #105 : Gold
-![Gold]({{ site.url }}/games/Game-Jams/OHGJ/105_MidasGun/gold.png)
-[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/105_MidasGun/index.html)
+
 You Wield the Midas gun, shoot the evil green dudes with it to turn them into gold! Don't let them
  get you!
  Use the arrow keys to move left and right, up arrow or space to jump. Mouse 1 or left control to fire the midas gun!
+![Gold]({{ site.url }}/games/Game-Jams/OHGJ/105_MidasGun/gold.png)
+[Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/105_MidasGun/index.html)
+
 
 OneHourGameJam #100 : I Made This
+
+Cage is stuck! He must float around bees for all eternity! You must help him survive! As long as possible! Note: there is a game breaking bug. If you don't move, colliders are broken lol Use WASD or Arrow keys to float around the bees. Enjoy!
 ![BeeCage]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/bee.png)
 [Play Now!]({{ site.url }}/games/Game-Jams/OHGJ/100_BeeCageFinal/index.html)
-Cage is stuck! He must float around bees for all eternity! You must help him survive! As long as possible! Note: there is a game breaking bug. If you don't move, colliders are broken lol Use WASD or Arrow keys to float around the bees. Enjoy!
-
 
 
 ### Fall 2016 School Projects:
