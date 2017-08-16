@@ -33,6 +33,8 @@ She has fairy wings, but she cant fly with them. She can only glide with them. S
 You platform and survive your way to get to the end of the level!
 ![Lumi]({{ site.url }}/games/Game-Jams/LOWREZJAM2017/fairyWitch_web/screenshot.png)
 [Play Now!]({{ site.url }}/games/Game-Jams/LOWREZJAM2017/fairyWitch_web/index.html)
+[Download](https://sindiewen.itch.io/lumi-the-fairy-witch-prototype)
+[Source Code](https://github.com/Sindiewen/Lumi-The-Fairy-Witch---LOWREZGAMEJAM-2017)
 
 [OneHourGameJam](http://onehourgamejam.com) #105 : Gold
 
