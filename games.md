@@ -24,6 +24,16 @@ There are powerups each paddle can pickup to assist you.
 ### Game Jam Projects!
 These are various game jam projects i've made
 
+[#LOWREZJAM 2017](https://itch.io/jam/lowrezjam2017) - Lumi the Fairy Witch Prototype
+Made for #LOWREZJAM 2017, This is a small prototype project called "Lumi the Fairy Witch". I made this in the 16 days the jam was going on by myself solo using Unity.
+
+You pay as Lumi, she is half fairy, half witch.
+She has fairy wings, but she cant fly with them. She can only glide with them. She can cast witch magic with her wand to defeat her foes.
+
+You platform and survive your way to get to the end of the level!
+![Lumi]({{ site.url }}/games/Game-Jams/LOWREZJAM2017/fairyWitch_web/screenshot.png)
+[Play Now!]({{ site.url }}/games/Game-Jams/LOWREZJAM2017/fairyWitch_web/index.html)
+
 [OneHourGameJam](http://onehourgamejam.com) #105 : Gold
 
 You Wield the Midas gun, shoot the evil green dudes with it to turn them into gold! Don't let them
