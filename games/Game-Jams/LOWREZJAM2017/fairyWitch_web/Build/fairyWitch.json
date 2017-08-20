@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "fairyWitch.data.unityweb",
+"asmCodeUrl": "fairyWitch.asm.code.unityweb",
+"asmMemoryUrl": "fairyWitch.asm.memory.unityweb",
+"asmFrameworkUrl": "fairyWitch.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#80858B"
+}
