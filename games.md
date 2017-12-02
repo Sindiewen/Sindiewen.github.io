@@ -54,7 +54,7 @@ Cage is stuck! He must float around bees for all eternity! You must help him sur
 
 [LD Mini (Ludum Dare Mini)](http://ludumdare.com/compo/) #58 : Pong
 
-Hisory: This is my first ever game jam title. I made it for the MiniLD jam, the 58'th one. I made it over the course of a weekend while moving into a new home at the same time (bad idea). It's not perfect, But I had fun making it and I learned alot as my first ever project.
+History: This is my first ever game jam title. I made it for the MiniLD jam, the 58'th one. I made it over the course of a weekend while moving into a new home at the same time (bad idea). It's not perfect, But I had fun making it and I learned alot as my first ever project.
 I seemed to have lost the source code so I can't offer any downloads, or any fixes. I used this project as a base for the enhanced remake project above "Project Tri-Pong"
 
 This is using the old pre-HTML5 web player.
