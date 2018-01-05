@@ -8,6 +8,10 @@
             display: block;
             margin: 0 auto;
         }
+        .audioCenter
+        {
+            margin: 10px auto; width: 320px;
+        }
     </style>
 
     <head> 
@@ -17,11 +21,12 @@
     <!-- HTML Body - Loops the song and plays dancing miku gif -->
     <body>
         <!-- Autoplays Basic Element's Touch You Right Now on loop -->
-        <audio loop controls autoplay>
-            <source src="Touch_You_Right_Now.wav" type="audio/wav">
-        </audio>
-
-        <!-- Plays the Miku dancing gif -->
+        <div class="container-fluid audioCenter">
+            <audio loop controls autoplay>
+               <source src="Touch_You_Right_Now.wav" type="audio/wav">
+            </audio>
+        </div>
+                <!-- Plays the Miku dancing gif -->
         <img SRC="miku.gif" style="width:40%">
     </body>
 
