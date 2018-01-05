@@ -14,19 +14,35 @@
         }
     </style>
 
+    <!-- Javascript Functions
+    <script>
+        var mikuVol = document.GetElementByID("mikuAudio");
+
+        window.onload = setStartVolume;
+            
+        function setStartVolume()
+        {
+            mikuVol.volume = 0.5;
+        }         
+    </script>-->
+
+
+    <!-- HTML Head -->
     <head> 
         <title> Miku Right Now </title>
     </head>
 
     <!-- HTML Body - Loops the song and plays dancing miku gif -->
     <body>
+
         <!-- Autoplays Basic Element's Touch You Right Now on loop -->
         <div class="container-fluid audioCenter">
-            <audio loop controls autoplay>
+            <audio loop controls autoplay id="mikuAudio">
                <source src="Touch_You_Right_Now.wav" type="audio/wav">
-            </audio>
+               </audio>
         </div>
-                <!-- Plays the Miku dancing gif -->
+
+        <!-- Plays the Miku dancing gif -->
         <img SRC="miku.gif" style="width:40%">
     </body>
 
