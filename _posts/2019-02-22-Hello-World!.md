@@ -15,3 +15,4 @@ actually it wrapped 3 times. Cool!
 This is a post, and It seems blogging works!<br>
 Here's a picture too<br>
 ![Scam]({{ site.url }}/_posts/pics/2019-02-22/scam.jpg)
+![Tri-Pong]({{ site.url }}/games/2017/Mar_TriPong/tri.png)
