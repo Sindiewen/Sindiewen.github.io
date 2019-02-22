@@ -12,4 +12,4 @@ That giant line should do it. I wonder if it will wrap. How many times? I'm gues
 
 This is a post, and It seems blogging works!
 Here's a picture too<br>
-![Scam]({{ site.url }}/_posts/pics/2019-02-22/IMG_0146.JPG)
+![Scam]({{ site.url }}/_posts/pics/2019_02_22/IMG_0146.JPG)
