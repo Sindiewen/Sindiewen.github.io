@@ -22,17 +22,17 @@ Expereince:
 
 Lead Systems, Game Programmer and Game Designer
 Starfold Project – Emeryville, CA					November 2017 – Ongoing
-    • Lead Game and systems programmer for game software using Unity 3D and C#.
-    • Designing, implementing gameplay systems for use on various platforms.
-    • Designing and implementing fun gameplay mechanics for player engagement and entertainment.
-    • Striving for a fun-first approach in game design.
+    - Lead Game and systems programmer for game software using Unity 3D and C#.
+    - Designing, implementing gameplay systems for use on various platforms.
+    - Designing and implementing fun gameplay mechanics for player engagement and entertainment.
+    - Striving for a fun-first approach in game design.
 
     Academic Computer Resource Center Lab Aid
 City College of San Francisco - San Francisco, CA		January 2016 – Ongoing
-    • Part time Computer Science tutor for students in the computer science field.
-    • Tutoring C++, Java, Python and the fundamentals of Computer Science.
-    • Aiding students in computer and technical help.
-    • Assisting faculty and students in school related materials.
+    - Part time Computer Science tutor for students in the computer science field.
+    - Tutoring C++, Java, Python and the fundamentals of Computer Science.
+    - Aiding students in computer and technical help.
+    - Assisting faculty and students in school related materials.
 
 ### Contact and Connect with me
 
