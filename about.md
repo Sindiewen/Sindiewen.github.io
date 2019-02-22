@@ -12,12 +12,19 @@ Current project i'm working on is a small game venture called [The Starfold Proj
 
 Expereince:
     - Experienced C++ Programmer
+
     - Experienced C# Programmer
+    
     - Experienced Java Experience
+
     - Experienced Python Experience
+
     - Experienced in Xcode
+
     - Experienced in Visual Studio
+
     - Experienced in Unity 3D
+    
     - Experienced in version control using Git
 
 
