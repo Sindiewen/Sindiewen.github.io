@@ -11,55 +11,35 @@ Current project i'm working on is a small game venture called [The Starfold Proj
 ### Experience
 
 Expereince:
-    - Experienced C++ Programmer
-
-    - Experienced C# Programmer
-    
-    - Experienced Java Experience
-
-    - Experienced Python Experience
-
-    - Experienced in Xcode
-
-    - Experienced in Visual Studio
-
-    - Experienced in Unity 3D
-    
-    - Experienced in version control using Git
+    - Experienced C++ Programmer<br>
+    - Experienced C# Programmer<br>
+    - Experienced Java Experience<br>
+    - Experienced Python Experience<br>
+    - Experienced in Xcode<br>
+    - Experienced in Visual Studio<br>
+    - Experienced in Unity 3D<br>
+    - Experienced in version conrrol using Git<br>
 
 
+Lead Systems, Game Programmer and Game Designer<br>
+Starfold Project – Emeryville, CA    November 2017 – Ongoing<br>
+    - Lead Game and systems programmer for game software using Unity 3D and C#.<br>
+    - Designing, implementing gameplay systems for use on various platforms.<br>
+    - Designing and implementing fun gameplay mechanics for player engagement and entertainment.<br>
+    - Striving for a fun-first approach in game design.<br>
 
 
-Lead Systems, Game Programmer and Game Designer
-
-Starfold Project – Emeryville, CA					November 2017 – Ongoing
-
-    - Lead Game and systems programmer for game software using Unity 3D and C#.
-
-    - Designing, implementing gameplay systems for use on various platforms.
-
-    - Designing and implementing fun gameplay mechanics for player engagement and entertainment.
-
-    - Striving for a fun-first approach in game design.
-
-
-Academic Computer Resource Center Lab Aid
-
-City College of San Francisco - San Francisco, CA		January 2016 – Ongoing
-
-    - Part time Computer Science tutor for students in the computer science field.
-
-    - Tutoring C++, Java, Python and the fundamentals of Computer Science.
-
-    - Aiding students in computer and technical help.
-
-    - Assisting faculty and students in school related materials.
+Academic Computer Resource Center Lab Aid<br>
+City College of San Francisco - San Francisco, CA    January 2016 – Ongoing<br>
+    - Part time Computer Science tutor for students in the computer science field.<br>
+    - Tutoring C++, Java, Python and the fundamentals of Computer Science.<br>
+    - Aiding students in computer and technical help.<br>
+    - Assisting faculty and students in school related materials.<be>
 
 
 ### Contact and Connect with me
 
-Various ways to contact and connect with me
-
+Various ways to contact and connect with me<br>
 [Personal Email](sindiewen@gmail.com)
 [Linkedin](https://www.linkedin.com/in/rachel-vancleave-01038b89/)
 [Twitter](https://twitter.com/Sindiewen)
